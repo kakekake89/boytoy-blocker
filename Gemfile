@@ -35,12 +35,13 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
-# gem 'debugger'
+gem 'debugger'
 
 gem 'devise'
 
 gem 'forem', :github => "radar/forem"
 gem 'kaminari', '0.14.1'
 
-gem 'thin'
+gem 'useragent'
+gem 'whenever'
 
