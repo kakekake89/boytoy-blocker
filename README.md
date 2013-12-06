@@ -1,5 +1,5 @@
-Boytoy's Example Blocking App
-=============================
+Example App
+===========
 
 Runs [Forem](https://github.com/radar/forem).
 
